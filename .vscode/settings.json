@@ -1,5 +1,5 @@
 {
     "python.pythonPath": "/home/ever/env/glow/bin/python",
     "python.jediEnabled": false,
-    "python.languageServer": "Microsoft",
+    "python.languageServer": "Pylance",
 }

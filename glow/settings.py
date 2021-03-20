@@ -25,7 +25,7 @@ SECRET_KEY = '94^u#7dw%u@!_&a#)lip+))zat755f&#3sc3-70catb)v@x#4j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sinconmasver.pythonanywhere.com','localhost','127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0:8000', 'glow-django.herokuapp.com']
 
 
 # Application definition
