@@ -8,7 +8,7 @@ click==7.1.2
 colorama==0.4.3
 decorator==4.4.2
 Deprecated==1.2.9
-Django==3.0.7
+Django==3.1.6
 django-bootstrap4==1.1.1
 django-ckeditor==5.9.0
 django-js-asset==1.2.2
@@ -19,7 +19,7 @@ ipython==7.13.0
 ipython-genutils==0.2.0
 isort==4.3.21
 jedi==0.17.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 lazy-object-proxy==1.4.3
 livereload==2.6.1
@@ -36,7 +36,7 @@ nltk==3.5
 parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.1.0
+Pillow==8.1.1
 prompt-toolkit==3.0.5
 ptyprocess==0.7.0
 PyGithub==1.51
