@@ -11,7 +11,7 @@ Personal photography page with Django by Python, thank you for your visit.
 
 
 ## Deployment🤖
-To set up the web it is necessary to install [Python](https://www.python.org/downloads/ ), some initial packages, create the environment and install the web app requirements:
+To set up the web it is necessary to install [Python](https://www.python.org/downloads/), some initial packages, create the environment and install the web app requirements:
 
 ```bash
 $ pip install pylint                # Install pylint
@@ -27,4 +27,4 @@ $ cd docs
 $ mkdocs serve
 ```
 
-**Ever Ruiz Diaz**, *Software Student* - [Portfolio](http://everdev.pythonanywhere.com/)
+**Ever Ruiz Diaz** - [Portfolio](http://www.everdev.it/)
